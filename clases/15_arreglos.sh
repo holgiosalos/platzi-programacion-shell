@@ -1,4 +1,4 @@
-# ! /bin/bash
+# !/bin/bash
 # Programa para ejemplificar el uso de los arreglos
 # Autor: Marco Toscano Freire - @martosfre
 
